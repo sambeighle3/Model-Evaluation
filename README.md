@@ -11,8 +11,7 @@ The goal is to evaluate the models and understand their performance a bit. Speci
   give a brief description of what it is. 
 * What would you consider the two best models? 
 * For the best and second-best models, are there certain parts of the data space 
-  where they seem to do worse? This doesn't need to be a super deep dive, but 
-  consider their performance on 
+  where they seem to do worse. This does a deep dive to consider their performance on 
     * Cars of different models
     * Cars of different ages
     * Cars of different mileages
